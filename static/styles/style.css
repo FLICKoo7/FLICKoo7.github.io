@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.conteiner {
+    margin: 0;
+    margin-left: 40px;
+    padding: 0;
+}
+
+span {
+    font-style: italic;
+}
+
+.conteiner {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.list-conteiner {
+    display: inline-block;
+    border-style: solid;
+    border-width: 0.5px;
+    padding-right: 20px;
+    
+}
+
+.list-conteiner>p {
+    text-align: center;
+    font-weight: bold;
+}
+
+.img-conteiner>img {
+    text-align: center;
+}
+
+.angel {
+    margin-top: 70px;
+}
+
+.angel>img {
+    float: left;
+    width: 250px;
+    margin-right: 20px;
+}
+
+.pam {
+    margin-top: 200px;
+}
+
+.pam>img {
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+    margin-left: 0;
+}
+
+.par {
+    margin-top: 130px;
+}
+.par>img {
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+}
+
+.voin {
+    margin-top: 100px;
+}
+
+.voin>img {
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+}
+
+.stela {
+    margin-top: 100px;
+}
+.stela>img {
+    float: left;
+    width: 300px;
+    margin-right: 20px;
+}
+
+.skulptura {
+    margin-top: 200px;
+}
+
+.skulptura>img {
+    float: left;
+    width: 400px;
+    margin-right: 20px; 
+}
+
+.nav>nav>img {
+    float: none;
+    height: 120px;
+    width: 2200px;
+}
+
+.nav2>nav>img {
+    margin-top: 20px;
+    float: none;
+    height: 120px;
+    width: 2200px;
+}
